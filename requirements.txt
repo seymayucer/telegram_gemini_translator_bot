@@ -1,0 +1,4 @@
+python-telegram-bot==13.15
+google-generativeai==0.8.3  # Ensure this matches the latest version available
+regex  # For regex-based parsing in Python
+python-dotenv==1.0.1
